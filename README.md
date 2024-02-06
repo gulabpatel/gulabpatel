@@ -17,7 +17,7 @@ Image Processing, GANs, Knowledge Graphs, NLP, GIS, and Remote Sensing. Please v
 ---
 
 ## Projects
-- **Smart agriculture: Applications of AI in Agriculture :**, e.g. 
+### **Smart agriculture: Applications of AI in Agriculture :**
 - [Crop Monitoring Related Applications](https://github.com/gulabpatel/AIAg/tree/main/SmartAG/AugmentedStartupCourse/01_Disease_Det_app)
 - [Weather-Related Applications](https://github.com/gulabpatel/AIAg/tree/main/SmartAG/AugmentedStartupCourse/07_Weather_Pred_app)
 - [Water Related Applications](https://github.com/gulabpatel/AIAg/tree/main/SmartAG/AugmentedStartupCourse/10_WaterQualityAnalysis_app)

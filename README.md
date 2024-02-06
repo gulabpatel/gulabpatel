@@ -2,14 +2,13 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/gulabpatel?style=social)](https://github.com/gulabpatel?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/gulabsinghiitg?style=social)](https://twitter.com/gulabsinghiitg)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/gulabpatel1996)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1Gyrr9nkI3xnBbjqOHrevumhLhCxKYRan/view?usp=sharing)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gulabpatel.gulabpatel)
 <!-- [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en) -->
 <!-- [![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu) -->
 <!-- [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCnyWxz_EWkNI2yhvuuQ-n6w) -->
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/gulabpatel1996)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1Gyrr9nkI3xnBbjqOHrevumhLhCxKYRan/view?usp=sharing)
 <!-- [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs) -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gulabpatel.gulabpatel)
-
 
 Mr. Gulab Patel is a dynamic and passionate Data Scientist with 3 years of experience in Data Science.
 He has worked on Machine Learning, Deep Learning, Time Series, Computer Vision,

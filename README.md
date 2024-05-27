@@ -23,10 +23,12 @@ Image Processing, GANs, Knowledge Graphs, NLP, GIS, and Remote Sensing. Please v
 - [Water Related Applications](https://github.com/gulabpatel/AIAg/tree/main/SmartAG/AugmentedStartupCourse/10_WaterQualityAnalysis_app)
 - [Livestock Related Applications](https://github.com/gulabpatel/AIAg/tree/main/SmartAG/AugmentedStartupCourse/13_LiveStockCounting_app)
 - **GIS :** [GIS](https://github.com/gulabpatel/AIAg/tree/main/GIS)
-- **Remote Sensing :** [RS](https://github.com/gulabpatel/AIAg/tree/main/RS) --->
-
+- **Remote Sensing :** [RS](https://github.com/gulabpatel/AIAg/tree/main/RS)
 
 ---
+--->
+
+
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gulabpatel&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gulabpatel&langs_count=3&hide=javascript,go,html,css,tex)
